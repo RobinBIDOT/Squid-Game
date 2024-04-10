@@ -1,5 +1,11 @@
 # Squid Game Race
 
+## Exercice
+Mon travail sur ce projet :
+- **Lecture et Compréhension de Code**: Explorer et comprendre le fonctionnement interne du jeu.
+- **Commentaires de Code**: Pratiquer l'ajout de commentaires pour clarifier la logique et les fonctionnalités du code.
+- **Découverte de Nouvelles Bibliothèques**: Se familiariser avec les bibliothèques utilisées, notamment pico.js, camvas.js, GSAP, et Three.js, et découvrir comment elles contribuent au développement de jeux interactifs.
+
 ## Présentation
 Squid Game Race est un jeu interactif inspiré par la série "Squid Game". Ce jeu utilise la reconnaissance faciale et des animations 3D pour créer une expérience immersive où le joueur doit éviter d'être vu par la "poupée" tout en se déplaçant vers l'avant pour atteindre l'objectif.
 
