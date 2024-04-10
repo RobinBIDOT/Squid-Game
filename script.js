@@ -135,7 +135,7 @@ function init() {
         pos.y = det[0]; // Coordonnée y du visage
 
         // Calculer la distance parcourue entre les deux dernières détections
-        let _dist = Math.hypot(pos.x - prev_pos.x, pos.y - prev_pos.y);
+        let _dist = Math.hypot(pos.x - prev_pos.x, pos.y - prev_pos.y)*1.2;
 
         // Réinitialiser la distance si c'est la première détection
         if (prev_pos.x === -1) {
